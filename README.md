@@ -14,3 +14,6 @@ The basis set is in INSPECTOR format which can also be inspected in MATLAB.
 Note that the basis set has been already Lorentzian and Gaussian broadened to match the 8 Hz<sup>2</sup> Gaussian broadening case.
 
 Thus the extracted Gaussian broadening for the perfect model 3 Hz2 case should be -5 Hz<sup>2</sup>, and for the 20 Hz<sup>2</sup> case  should be 12 Hz<sup>2</sup>. For the imperfect case you will not get exactly these numbers because the model is imperfect.
+
+### Resources
+For more information, including relevant publications and other available downloads, please visit the MR SCIENCE Laboratory webpage at https://juchem.bme.columbia.edu/.
